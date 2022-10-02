@@ -3,7 +3,7 @@ This script is written for fun and for improving C++ skills.
 
 ## Requirements
 The script requires:
-- C++23
+- C++23 (C++17 should be enough but is not tested yet)
 - Jsoncpp [Link](https://github.com/open-source-parsers/jsoncpp)
 
 It is fully tested on Windows and MacOS (Intel).
